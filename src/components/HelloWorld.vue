@@ -72,7 +72,7 @@ export default {
 .chat {
   display: inline-block;
     position: absolute;
-    bottom: -30px;
+    bottom: -60px;
     right: 24px;
     padding: 5px 25px;
     background: #ffffff7a;
